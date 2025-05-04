@@ -1,4 +1,4 @@
-[<h2 align="left">Hi 👋! My name is Nasrul Wahid<br><br> I'm a Network Engineer.</h2>
+<h2 align="left">Hi 👋! My name is Nasrul Wahid<br><br> I'm a Network Engineer.</h2>
 
 ###
 
