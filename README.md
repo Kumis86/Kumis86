@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nasrul Wahid<br><br> I'm a Network Engineer.</h2>
+<h1 align="left">Hi 👋! My name is Nasrul Wahid<br><br> I'm a Network Engineer.</h1>
 
 ###
 
@@ -13,6 +13,10 @@
 </div>
 
 ###
+<br></br>
+<br></br>
+
+<h2 align="center">Technologies & Tools I Use</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -38,6 +42,11 @@
 
 ###
 
+<br></br>
+<br></br>
+
+<h2 align="center">Let's Connect!</h2>
+
 <br clear="both">
 
 <div align="center">
@@ -50,6 +59,12 @@
 </div>
 
 ###
+
+<br></br>
+<br></br>
+
+<h2 align="center">Play Games With Me</h2>
+
 
 <br clear="both">
 
