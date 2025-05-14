@@ -1,22 +1,13 @@
-<h1 align="left">Hi 👋! My name is Nasrul Wahid<br><br> I'm a Network Engineer.</h1>
+<h2 align="left">Hi 👋! My name is Nasrul Wahid<br><br> I'm a Network Engineer.</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=kumis86&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumis86&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-<br></br>
-<br></br>
-
-<h2 align="center">Technologies & Tools I Use</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -42,11 +33,6 @@
 
 ###
 
-<br></br>
-<br></br>
-
-<h2 align="center">Let's Connect!</h2>
-
 <br clear="both">
 
 <div align="center">
@@ -59,12 +45,6 @@
 </div>
 
 ###
-
-<br></br>
-<br></br>
-
-<h2 align="center">Play Games With Me</h2>
-
 
 <br clear="both">
 
